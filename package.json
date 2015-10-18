@@ -1,0 +1,24 @@
+{
+  "name": "kanban_app",
+  "version": "1.0.0",
+  "description": "A Kanban App written in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omidfi/kanban_app.git"
+  },
+  "keywords": [
+    "kanban",
+    "react",
+    "productivity"
+  ],
+  "author": "Omid Hezaveh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omidfi/kanban_app/issues"
+  },
+  "homepage": "https://github.com/omidfi/kanban_app#readme"
+}
