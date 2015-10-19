@@ -4,7 +4,8 @@
   "description": "A Kanban App written in React",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/omidfi/kanban_app#readme",
   "devDependencies": {
     "html-webpack-plugin": "^1.6.2",
-    "webpack": "^1.12.2"
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
   }
 }
